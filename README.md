@@ -10,7 +10,7 @@
 </br>
 
 > [!IMPORTANT]
-> The Google Signup is currently deactivated, so you cannot test this webapp on my hosted instance. To test it locally, you have to create a [Firebase](https://firebase.google.com/) project and set the environment variables in your own `.env` file.
+> This project is archived. Check out my other projects in my profile. The functionality of Couple Quest will be transferred to my new project [Gipfel Liebe](https://github.com/veniplex/gipfel-liebe).
 
 </br>
 
